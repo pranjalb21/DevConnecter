@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://pranjal:mern@devconnect.e2h4k.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtToken": "secrettoken"
+    "jwtToken": "secrettoken",
+    "githubClientId": "Iv1.fa583b6678cb57c2",
+    "githubSecret": "247f71e0e17fd67f933f467d7165024780dbeb96"
 }
